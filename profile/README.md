@@ -7,7 +7,7 @@
 ### **我们的技术栈**
 - **前端开发**：HTML5, CSS3, JavaScript
 - **后端开发**：Golang, Node.js, Java, PHP
-- **数据库**：MySQL, SQLite
+- **数据库**：MySQL, SQLite, PostgreSQL, Redis
 - **服务端开发**: C, C++, Golang, Fortran
 
 ### **参与开发的作品**
