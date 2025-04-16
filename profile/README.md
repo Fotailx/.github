@@ -11,8 +11,9 @@
 - **服务端开发**: C, C++, Golang, Fortran
 
 ### **参与开发的作品**
-+ **Fotailx::FoxHQ**
++ **FoxHQ**
   <br>
+  > 主力开发：Fotailx
   > FoxHQ 是一个**多核心**的，支持**灵活扩展**的Minecraft服务端。
   <br>
 <!--
