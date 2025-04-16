@@ -13,7 +13,7 @@
 ### **参与开发的作品**
 + **FoxHQ**
   <br>
-  > 主力开发：Fotailx
+  > 主力开发：Fotailx <br>
   > FoxHQ 是一个**多核心**的，支持**灵活扩展**的Minecraft服务端。
   <br>
 <!--
