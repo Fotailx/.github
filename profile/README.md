@@ -10,8 +10,8 @@
 - **数据库**：MySQL, SQLite
 - **服务端开发**: C, C++, Golang, Fortran
 
-### **我们的作品**
-+ **FoxHQ**
+### **参与开发的作品**
++ **Fotailx::FoxHQ**
   <br>
   > FoxHQ 是一个**多核心**的，支持**灵活扩展**的Minecraft服务端。
   <br>
